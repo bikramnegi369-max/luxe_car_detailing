@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://luxecarsdetailing.com'),
   title: "Luxe Car Detailing | Gurugram - Premium Car Care & Protection",
   description:
     "Luxe Car Detailing Gurugram provides expert detailing, PPF, Ceramic Coating, and interior deep cleaning to protect your investment.",

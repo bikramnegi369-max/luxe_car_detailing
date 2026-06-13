@@ -1,17 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Luxe Car Detailing - Gurugram
 
-## Getting Started
+Luxe Car Detailing is a premium automotive care studio based in Gurugram. We specialize in high-end detailing and protection services to restore your vehicle's shine and protect your investment with a showroom-quality finish.
 
-First, run the development server:
+## Featured Services
+
+- **PPF (Paint Protection Film)**
+- **Ceramic Coating**
+- **Graphene Coating**
+- **Interior Deep Detailing**
+- **Rubbing & Polishing**
+- **Steam Wash**
+
+## Tech Stack
+
+This project is built using:
+
+- Next.js (App Router)
+- Tailwind CSS
+- TypeScript
+
+## Development
+
+To run the project locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
