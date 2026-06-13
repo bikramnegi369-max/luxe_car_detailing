@@ -44,8 +44,8 @@ const ComingSoon = () => {
         {/* New Hero Section */}
 
         {/* New Promotional Content and CTA */}
-        <div className="mb-4 md:mb-6 animate-fade-in-down">
-          <p className="text-white/90 text-lg sm:text-xl md:text-2xl lg:text-3xl font-light tracking-[0.2em] uppercase mb-6 flex flex-col">
+        <div className="mb-8 md:mb-6 animate-fade-in-down">
+          <p className="text-white/90 text-xl sm:text-xl md:text-2xl lg:text-3xl font-light tracking-[0.2em] uppercase mb-6 flex flex-col">
             <span>Say Goodbye</span>
             <span className="font-bold text-[#FD7400]">To Dullness</span>
           </p>
