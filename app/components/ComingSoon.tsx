@@ -11,7 +11,7 @@ const ComingSoon = () => {
   };
 
   return (
-    <div className="relative h-screen w-full flex flex-col overflow-hidden font-sans">
+    <div className="relative h-screen w-full flex flex-col overflow-hidden font-sans bg-[#0A0A0A]">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
