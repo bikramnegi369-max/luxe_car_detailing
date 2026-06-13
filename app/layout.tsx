@@ -13,9 +13,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Luxe Car Detailing | Premium Car Care & Paint Protection in Gurugram",
+  title: "Luxe Car Detailing | Gurugram - Premium Car Care & Protection",
   description:
-    "At Luxe Car Detailing Gurugram, we provide expert detailing, PPF, Ceramic Coating, and interior deep cleaning. Restore your vehicle's shine and protect your investment with our professional showroom-quality finish.",
+    "Luxe Car Detailing Gurugram provides expert detailing, PPF, Ceramic Coating, and interior deep cleaning to protect your investment.",
+  openGraph: {
+    title: "Luxe Car Detailing | Premium Car Care & Protection in Gurugram",
+    description:
+      "Restore your vehicle's shine and protect your investment with our professional showroom-quality finish.",
+    siteName: "Luxe Car Detailing",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Luxe Car Detailing | Gurugram",
+  },
 };
 
 export default function RootLayout({
